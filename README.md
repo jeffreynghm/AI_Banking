@@ -1,0 +1,1 @@
+# Hands on AI for banking by Packt. These codes are meant to be open sourced. Any suggestions on dataset removal and keys, please notify jeffreynghm [at] gmail [dot] com or raise an issue in this github. i will handle it swiftly within 48 hours.
